@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Екатерина Рыбина](https://up.htmlacademy.ru/adaptive/12/user/26126).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Ганин](https://htmlacademy.ru/profile/id195773).
 
 ---
 
